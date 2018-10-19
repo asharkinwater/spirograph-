@@ -39,13 +39,6 @@ print("G28")
 print(";lines of code = " + str(i)) # lets you know how long the gcode is 
 
 
-# In[19]:
-
-
-plotter
-
-
-# In[ ]:
 
 
 
