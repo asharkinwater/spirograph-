@@ -37,9 +37,3 @@ for t in range(0,steps): # loop to genorate gcode
 print("G1 Z10")
 print("G28")
 print(";lines of code = " + str(i)) # lets you know how long the gcode is 
-
-
-
-
-
-
