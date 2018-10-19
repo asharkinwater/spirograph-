@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #Spirograph gcode generator by August Honnell 
 
 import math as m
