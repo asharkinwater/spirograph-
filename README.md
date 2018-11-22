@@ -1,2 +1,2 @@
 # spirograph-
-This is a spirograph generator that prints gcode 
+This is a spirograph generator that genorates gcode
